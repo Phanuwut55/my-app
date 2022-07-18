@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.My-header {
+  background-color: rgb(218, 156, 156);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.My-Footer {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+.My-content{
+  background-color: rgb(199, 133, 103);
+  font-family: 'Courier New', Courier, monospace; 
+  padding: 2em;
+  border-radius: 15px;
+  border: 2px solid #415680;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+
+
